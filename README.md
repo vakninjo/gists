@@ -1,5 +1,5 @@
 # FEND Certification Course
----
+
 ## Restaurant Reviews
 
 Restaurant review app with offline capabilities for local restaurants along with reviews & information
